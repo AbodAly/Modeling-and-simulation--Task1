@@ -27,6 +27,29 @@ namespace MultiQueueModels
         ///////////// OUTPUTS /////////////
         public List<SimulationCase> SimulationTable { get; set; }
         public PerformanceMeasures PerformanceMeasures { get; set; }
+        public void inputData(int NumberOfSer, int StopNumber , int Stop, int SelectMethode)
+        {
+            StoppingNumber = StopNumber;
+            NumberOfServers = NumberOfSer;
+            if (Stop == 0)
+                StoppingCriteria = Enums.StoppingCriteria.NumberOfCustomers;
+            else
+                StoppingCriteria = Enums.StoppingCriteria.SimulationEndTime;
+            switch (SelectMethode)
+            {
+                case 0: SelectionMethod = Enums.SelectionMethod.HighestPriority;
+                    break;
+                case 1: SelectionMethod = Enums.SelectionMethod.Random;
+                    break;
+                case 2: SelectionMethod = Enums.SelectionMethod.LeastUtilization;
+                    break;
+                default:
+                    Console.WriteLine("peroblem in inputData methode ");
+                    break;
+
+            }
+
+        }
 
     }
 }
