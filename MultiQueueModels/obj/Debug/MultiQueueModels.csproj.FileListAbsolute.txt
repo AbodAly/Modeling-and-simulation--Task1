@@ -34,3 +34,9 @@ F:\GoogleDriveSync\[2019-2020] Simulation\[2019-2020] Labs\Lab 2\Template_Studen
 F:\GoogleDriveSync\[2019-2020] Simulation\[2019-2020] Labs\Lab 2\Template_Students\MultiQueueSimulation\MultiQueueModels\obj\Debug\MultiQueueModels.csprojResolveAssemblyReference.cache
 F:\GoogleDriveSync\[2019-2020] Simulation\[2019-2020] Labs\Lab 2\Template_Students\MultiQueueSimulation\MultiQueueModels\obj\Debug\MultiQueueModels.dll
 F:\GoogleDriveSync\[2019-2020] Simulation\[2019-2020] Labs\Lab 2\Template_Students\MultiQueueSimulation\MultiQueueModels\obj\Debug\MultiQueueModels.pdb
+F:\4th Year\Modeling Task\drive-download-20211104T161938Z-001\Lab 2 - Task 1\Template_Students\MultiQueueSimulation\MultiQueueModels\bin\Debug\MultiQueueModels.dll
+F:\4th Year\Modeling Task\drive-download-20211104T161938Z-001\Lab 2 - Task 1\Template_Students\MultiQueueSimulation\MultiQueueModels\bin\Debug\MultiQueueModels.pdb
+F:\4th Year\Modeling Task\drive-download-20211104T161938Z-001\Lab 2 - Task 1\Template_Students\MultiQueueSimulation\MultiQueueModels\obj\Debug\MultiQueueModels.csprojAssemblyReference.cache
+F:\4th Year\Modeling Task\drive-download-20211104T161938Z-001\Lab 2 - Task 1\Template_Students\MultiQueueSimulation\MultiQueueModels\obj\Debug\MultiQueueModels.csproj.CoreCompileInputs.cache
+F:\4th Year\Modeling Task\drive-download-20211104T161938Z-001\Lab 2 - Task 1\Template_Students\MultiQueueSimulation\MultiQueueModels\obj\Debug\MultiQueueModels.dll
+F:\4th Year\Modeling Task\drive-download-20211104T161938Z-001\Lab 2 - Task 1\Template_Students\MultiQueueSimulation\MultiQueueModels\obj\Debug\MultiQueueModels.pdb
