@@ -97,3 +97,17 @@ F:\4th Year\Modeling Task\drive-download-20211104T161938Z-001\Lab 2 - Task 1\Tem
 F:\4th Year\Modeling Task\drive-download-20211104T161938Z-001\Lab 2 - Task 1\Template_Students\MultiQueueSimulation\MultiQueueSimulation\obj\Debug\MultiQueueSimulation.csproj.CopyComplete
 F:\4th Year\Modeling Task\drive-download-20211104T161938Z-001\Lab 2 - Task 1\Template_Students\MultiQueueSimulation\MultiQueueSimulation\obj\Debug\MultiQueueSimulation.exe
 F:\4th Year\Modeling Task\drive-download-20211104T161938Z-001\Lab 2 - Task 1\Template_Students\MultiQueueSimulation\MultiQueueSimulation\obj\Debug\MultiQueueSimulation.pdb
+C:\Users\DELL-MCC\Desktop\SC\MultiQueueSimulation\MultiQueueSimulation\bin\Debug\MultiQueueSimulation.exe.config
+C:\Users\DELL-MCC\Desktop\SC\MultiQueueSimulation\MultiQueueSimulation\bin\Debug\MultiQueueSimulation.exe
+C:\Users\DELL-MCC\Desktop\SC\MultiQueueSimulation\MultiQueueSimulation\bin\Debug\MultiQueueSimulation.pdb
+C:\Users\DELL-MCC\Desktop\SC\MultiQueueSimulation\MultiQueueSimulation\bin\Debug\MultiQueueModels.dll
+C:\Users\DELL-MCC\Desktop\SC\MultiQueueSimulation\MultiQueueSimulation\bin\Debug\MultiQueueModels.pdb
+C:\Users\DELL-MCC\Desktop\SC\MultiQueueSimulation\MultiQueueSimulation\obj\Debug\MultiQueueSimulation.csproj.AssemblyReference.cache
+C:\Users\DELL-MCC\Desktop\SC\MultiQueueSimulation\MultiQueueSimulation\obj\Debug\MultiQueueSimulation.Form1.resources
+C:\Users\DELL-MCC\Desktop\SC\MultiQueueSimulation\MultiQueueSimulation\obj\Debug\MultiQueueSimulation.Properties.Resources.resources
+C:\Users\DELL-MCC\Desktop\SC\MultiQueueSimulation\MultiQueueSimulation\obj\Debug\MultiQueueSimulation.Table.resources
+C:\Users\DELL-MCC\Desktop\SC\MultiQueueSimulation\MultiQueueSimulation\obj\Debug\MultiQueueSimulation.csproj.GenerateResource.cache
+C:\Users\DELL-MCC\Desktop\SC\MultiQueueSimulation\MultiQueueSimulation\obj\Debug\MultiQueueSimulation.csproj.CoreCompileInputs.cache
+C:\Users\DELL-MCC\Desktop\SC\MultiQueueSimulation\MultiQueueSimulation\obj\Debug\MultiQueueSimulation.csproj.CopyComplete
+C:\Users\DELL-MCC\Desktop\SC\MultiQueueSimulation\MultiQueueSimulation\obj\Debug\MultiQueueSimulation.exe
+C:\Users\DELL-MCC\Desktop\SC\MultiQueueSimulation\MultiQueueSimulation\obj\Debug\MultiQueueSimulation.pdb

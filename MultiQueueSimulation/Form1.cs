@@ -14,11 +14,65 @@ namespace MultiQueueSimulation
 {
     public partial class Form1 : Form
     {
+        public static string FN = "";
         public Form1()
         {
             InitializeComponent();
         }
-        
-      
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            OpenFileDialog path_test = new OpenFileDialog();
+            if (path_test.ShowDialog() == DialogResult.OK)
+            {
+                FN = path_test.FileName;
+                textBox1.Text = FN;
+            }
+        }
+        SimulationSystem obj;
+        private void button1_Click(object sender, EventArgs e)
+        {
+            obj = new SimulationSystem();
+            obj.FileName = textBox1.Text;
+            int len = textBox1.Text.Length;
+            string str = textBox1.Text.ToString();
+            Table.pub= str[len-5].ToString();
+            // start from hereeeeeeeeeeee
+            Table wind2 = new Table(obj);
+            wind2.Show();
+            this.Hide();
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            textBox1.Text = "C:\\Users\\DELL-MCC\\Desktop\\SC\\MultiQueueSimulation\\MultiQueueSimulation\\TestCases\\TestCase1.txt";
+            
+        }
+        private void button3_Click(object sender, EventArgs e)
+        {
+            textBox1.Text = "C:\\Users\\DELL-MCC\\Desktop\\SC\\MultiQueueSimulation\\MultiQueueSimulation\\TestCases\\TestCase1.txt";
+        }
+
+        private void textBox1_Enter(object sender, EventArgs e)
+        {
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            textBox1.Text = "C:\\Users\\DELL-MCC\\Desktop\\SC\\MultiQueueSimulation\\MultiQueueSimulation\\TestCases\\TestCase2.txt";
+
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            textBox1.Text = "C:\\Users\\DELL-MCC\\Desktop\\SC\\MultiQueueSimulation\\MultiQueueSimulation\\TestCases\\TestCase3.txt";
+
+        }
     }
 }

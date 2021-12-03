@@ -8,6 +8,8 @@ namespace MultiQueueModels
 {
     public class SimulationSystem
     {
+        public string FileName = null;
+
         public SimulationSystem()
         {
             this.Servers = new List<Server>();
@@ -15,7 +17,8 @@ namespace MultiQueueModels
             this.PerformanceMeasures = new PerformanceMeasures();
             this.SimulationTable = new List<SimulationCase>();
         }
-
+        public int AssignedServer { get; set; }
+        
         ///////////// INPUTS ///////////// 
         public int NumberOfServers { get; set; }
         public int StoppingNumber { get; set; }
@@ -23,6 +26,7 @@ namespace MultiQueueModels
         public List<TimeDistribution> InterarrivalDistribution { get; set; }
         public Enums.StoppingCriteria StoppingCriteria { get; set; }
         public Enums.SelectionMethod SelectionMethod { get; set; }
+
 
         ///////////// OUTPUTS /////////////
         public List<SimulationCase> SimulationTable { get; set; }
