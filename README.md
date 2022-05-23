@@ -7,6 +7,8 @@ Multi-channel Queue server simulation.
 
 ## Task two 
 
+News paper seller simulation. 
+
 
 ## Task Three 
 
